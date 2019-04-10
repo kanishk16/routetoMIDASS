@@ -3,6 +3,7 @@
 ## Repo for Summer Internship Tasks MIDAS@IIITD
 
 Progress:
+
 TASK 1:
 - [x] Fetch max tweets using Twitter API and dump all its responses in a .jsonl file
 - [x] Parse the .jsonl file n display the text, likes, retweets, date/time, number of images in each tweet in a tabular format
